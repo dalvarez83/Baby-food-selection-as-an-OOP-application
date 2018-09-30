@@ -35,30 +35,49 @@ soliciting disagreeable responses. Don’t want unhappy baby!
 
 The baby food game could go as follows:
 1. Feeding: Breakfast
+
 Choose first food item from menu: plain yogurt
+
 Baby response to first food item from menu: Agreeable
+
 Choose second food item from the menu: carrots
+
 Baby response to first food item from menu: Agreeable
+
 Return result to parent: Happy baby!
 
 2. Feeding: Lunch
+
 Message: Cannot choose plain yogurt, carrots
+
 Choose first food item from menu: Cheese
+
 Baby response to first food item from menu: Agreeable
+
 Choose second food item from the menu: Pasta
+
 Baby response to first food item from menu: Agreeable
+
 Return result to parent: Happy baby!
 
 3. Feeding: Dinner
+
 Message: Cannot choose plain yogurt, carrots, cheese, pasta
+
 Choose first food item from menu: Sweet potatoes
+
 Baby response to first food item from menu: Maybe agreeable
+
 Choose second food item from the menu: Apples
+
 Baby response to first food item from menu: Disagreeable
+
 Return result to parent: Unhappy baby!
+
 Message: Sorry you have an unhappy baby! Better luck feeding tomorrow!
 
 DESIGN
+
 The baby feeding game is thought of a parent taking actions through a series of
 feeding time nodes, whereby each feeding time affects the next by limiting the
 food item set.
