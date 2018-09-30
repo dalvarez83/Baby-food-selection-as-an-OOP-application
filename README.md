@@ -1,7 +1,7 @@
 # Baby-food-selection-as-an-OOP-application
 
 DESCRIPTION:
-For this project, I will build a baby food menu whereby each food item on the
+In this project, I build a baby food menu whereby each food item on the
 menu triggers a response from the baby. Some food is agreeable, some food is
 sometime agreeable and some food is just disagreeable to the baby. You are the
 parent trying to feed the baby a varied menu of foods over the course of a day
@@ -12,6 +12,7 @@ food items on the menu and responses to those foods. The goal is to choose the
 right set of foods to have a happy baby at the end of the day.
 
 FEATURES:
+
 • You are presented with a menu of food options to feed your baby
 
 • Each food item on its own solicits a different response from your baby
