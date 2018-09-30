@@ -13,17 +13,23 @@ right set of foods to have a happy baby at the end of the day.
 
 FEATURES:
 • You are presented with a menu of food options to feed your baby
+
 • Each food item on its own solicits a different response from your baby
 (agreeable, maybe agreeable, disagreeable)
+
 • Each food item can be mixed with another food item that may solicit a
 different response from your baby.
+
 • You need to feed the baby two different items at each of the three
 feedings of the day (breakfast, lunch and dinner).
+
 • You cannot feed the baby the same food item within the same day. Want
 a varied food menu for your baby. However, baby does like similar
 types of foods (sweet, sour, soft, chewy, but never foul).
+
 • The goal is to be creative with your food menu for your baby without
 soliciting disagreeable responses. Don’t want unhappy baby!
+
 • Parent can use “q” to quit and “h” for help at any point of the game.
 
 The baby food game could go as follows:
